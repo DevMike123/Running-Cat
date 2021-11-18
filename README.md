@@ -22,3 +22,6 @@ You only have to run the RunCat.exe.
 # Installation
 
 Access to the "Releases" page and download the RunCat.exe.
+
+## Contributors
+- DevMike123
